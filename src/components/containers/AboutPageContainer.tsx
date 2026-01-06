@@ -40,7 +40,7 @@ const AboutPageContainer = () => {
             className='flex flex-col items-start xl:max-w-[650px] text-center xl:text-left mx-auto xl:mx-0'
           >
             <h2 className='h2 mb-6 mx-auto max-w-[540px] xl:max-w-none'>
-              Committed to Your Skin&apos;s Health and Beauty
+              Committed to fullfilling your beauty girls
             </h2>
             <p className='lead max-w-[600px] mx-auto xl:mx-0'>
               Tailored beauty solutions for a healthy complexion, offering
