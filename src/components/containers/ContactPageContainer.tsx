@@ -36,9 +36,9 @@ const ContactPageContainer = () => {
                 <div className='pt-1 flex-1'>
                   <h4 className='h4 mb-2'>Address</h4>
                   <p className='leading-relaxed'>
-                    123/45 Elm St, Suite 800
+                    Narborough 
                     <br />
-                    Los Angeles, CA 90001
+                    Leicester, United Kingdom
                   </p>
                 </div>
               </div>
