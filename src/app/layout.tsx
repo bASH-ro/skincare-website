@@ -33,11 +33,9 @@ export default function RootLayout({
       <body
         className={`${marcellus.variable} ${montserrat.variable} overflow-x-hidden`}
       >
-        {/* <CursorProvider> */}
         <Transition />
         <Header />
         <PageTransition>{children}</PageTransition>
-        {/* </CursorProvider> */}
       </body>
     </html>
   );

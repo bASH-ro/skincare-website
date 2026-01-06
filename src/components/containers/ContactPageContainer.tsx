@@ -49,8 +49,7 @@ const ContactPageContainer = () => {
                 <div className='pt-1 flex-1'>
                   <h4 className='h4 mb-2'>Phone Number</h4>
                   <div className='pt-1 flex-1'>
-                    <p>Phone: +90 (987) 654 32 10</p>
-                    <p>Fax: +90 (212) 654 32 10</p>
+                    <p>Phone:+44 7748 974103</p>
                   </div>
                 </div>
               </div>
@@ -61,8 +60,7 @@ const ContactPageContainer = () => {
                 <div className='pt-1 flex-1'>
                   <h4 className='h4 mb-2'>Email Address</h4>
                   <div className='flex flex-col gap-1'>
-                    <p>info@domain.com.tr</p>
-                    <p>support@domain.com.tr</p>
+                    <p>contact@puresknandbeauty.co.uk</p>
                   </div>
                 </div>
               </div>

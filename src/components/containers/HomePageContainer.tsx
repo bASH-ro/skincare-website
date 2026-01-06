@@ -31,8 +31,8 @@ const HomePageContainer = () => {
               Natural Beauty <br /> Starts Here
             </h1>
             <p className='lead max-w-xl mx-auto'>
-              Tailored skincare solutions for a healthy complexion, offering
-              customized care for radiant skin
+              Tailored beauty solutions for a healthy complexion, offering
+              a diverse range of services and products to meet your desired look.
             </p>
             <div className='flex flex-col xl:flex-row items-center gap-6 max-w-max mx-auto xl:mx-0'>
               <button className='btn btn-lg'>Book an Appointment</button>

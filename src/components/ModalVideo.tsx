@@ -6,25 +6,11 @@ const ModalVideo = () => {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <div className='flex items-center gap-4 cursor-pointer'>
-          <button className='relative w-[58px] h-[58px] bg-white rounded-full flex items-center justify-center shadow-2xl shadow-accent'>
-            <Image
-              src={"/assets/home/play.svg"}
-              width={36}
-              height={36}
-              alt='Play Video'
-            />
-          </button>
-          <span className='text-lg font-primary'>Watch Video</span>
-        </div>
+        <button className='px-6 py-2 bg-accent text-white rounded-lg font-primary hover:bg-accent/90 transition'>
+          View Services
+        </button>
       </DialogTrigger>
       <DialogContent>
-        <ReactPlayer
-          url='https://www.youtube.com/watch?v=Er5a7snyQKM'
-          width='100%'
-          height='100%'
-          muted
-        />
       </DialogContent>
     </Dialog>
   );

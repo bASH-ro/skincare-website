@@ -27,16 +27,16 @@ const Header = () => {
               <div className='flex items-center gap-2 text-white'>
                 <FaPhoneAlt className='text-white' />
                 <span>
-                  <Link href='tel:+90 (987) 654 32 10' className='text-white'>
-                    +90 (987) 654 32 10
+                  <Link href='tel:+447748974103' className='text-white'>
+                    +44 7748 974103
                   </Link>
                 </span>
               </div>
               <div className='flex items-center gap-2 text-white'>
                 <IoMdMail className='text-white' />
                 <span>
-                  <Link href='mailto:info@domain.com.tr' className='text-white'>
-                    info@domain.com.tr
+                  <Link href='mailto:contact@puresknandbeauty.co.uk' className='text-white'>
+                    contact@puresknandbeauty.co.uk
                   </Link>
                 </span>
               </div>

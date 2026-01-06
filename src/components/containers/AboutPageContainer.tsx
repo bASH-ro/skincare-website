@@ -43,8 +43,8 @@ const AboutPageContainer = () => {
               Committed to Your Skin&apos;s Health and Beauty
             </h2>
             <p className='lead max-w-[600px] mx-auto xl:mx-0'>
-              Tailored skincare solutions for a healthy complexion, offering
-              customized care for radiant skin
+              Tailored beauty solutions for a healthy complexion, offering
+              a diverse range of services and products to meet your desired look.
             </p>
             <div className='grid grid-cols-3 gap-[30px] mb-14 mx-auto xl:mx-0'>
               <div>
